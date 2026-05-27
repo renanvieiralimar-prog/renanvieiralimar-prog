@@ -4,19 +4,19 @@ Estudante de Sistemas de Informação na Universidade Federal do Pará (**UFPA**
 
 ---
 
-## 📚 Referências Acadêmicas & Bibliografia
+##  Referências Acadêmicas & Bibliografia
 
 Esta seção reúne as principais obras, artigos científicos e conceitos que fundamentam os projetos acadêmicos e fluxos que desenvolvi ao longo da minha graduação.
 
-### 🧠 Inteligência Artificial & Machine Learning
+###  Inteligência Artificial & Machine Learning
 * **SAMUEL, Arthur L.** *Some Studies in Machine Learning Using the Game of Checkers.* IBM Journal of Research and Development, v. 3, n. 3, p. 210-229, 1959.
     * *Aplicação prática:* Utilizado como base teórica para o estudo de algoritmos de aprendizado por reforço, funções de avaliação de cenários e heurísticas aplicadas a jogos e tomadas de decisão automatizadas.
 
-### 🏛️ Arquitetura de Software & Design Organizacional
+###  Arquitetura de Software & Design Organizacional
 * **CONWAY, Melvin E.** *How Do Committees Invent?* Datamation, v. 14, n. 4, p. 28-31, 1968.
     * *Aplicação prática:* Estudo da **Lei de Conway** aplicada como lente analítica para o diagnóstico organizacional, avaliando como as estruturas de comunicação de uma equipe moldam diretamente o design e a arquitetura dos sistemas de software.
 
-### ⚙️ Engenharia de Software & Automação de Processos
+###  Engenharia de Software & Automação de Processos
 * **SOMMERVILLE, Ian.** *Engenharia de Software.* 10. ed. São Paulo: Pearson Education, 2011.
     * *Aplicação prática:* Fundamentação teórica para o ciclo de vida do software, gerenciamento de ciclo de falhas (bug tracking) e engenharia de requisitos utilizados na concepção de workflows automatizados (como integrações via n8n e API do GitHub).
 
