@@ -20,6 +20,8 @@ Esta seção reúne as principais obras, artigos científicos e conceitos que fu
 * **SOMMERVILLE, Ian.** *Engenharia de Software.* 10. ed. São Paulo: Pearson Education, 2011.
     * *Aplicação prática:* Fundamentação teórica para o ciclo de vida do software, gerenciamento de ciclo de falhas (bug tracking) e engenharia de requisitos utilizados na concepção de workflows automatizados (como integrações via n8n e API do GitHub).
 
+* **ZADEH, Lotfi A.** *Fuzzy sets.* Information and Control, v. 8, n. 3, p. 338-353, 1965.
+    * *Aplicação prática:* Utilizado como base teórica para o desenvolvimento do repositório [sistema-fuzzy-analise-credito](https://github.com/renanvieiralimar-prog/sistema-fuzzy-analise-credito), aplicando a lógica difusa para a modelagem de incertezas e tomada de decisão na atribuição e análise de risco de crédito.
 <!--
 **renanvieiralimar-prog/renanvieiralimar-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
